@@ -1,0 +1,11 @@
+li {
+  color: red;
+}
+
+#clicked-todo {
+  text-decoration: underline;
+}
+
+.black {
+  background-color: black;
+}
